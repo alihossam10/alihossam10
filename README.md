@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on sites
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 999
 
